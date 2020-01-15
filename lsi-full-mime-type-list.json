@@ -185,7 +185,11 @@
 }, {
 	"desc": "Atom Syndication Format",
 	"mime": "application\/atom+xml",
-	"ext": ".atom, .xml"
+	"ext": ".atom"
+}, {
+	"desc": "Atom Syndication Format",
+	"mime": "application\/atom+xml",
+	"ext": ".xml"
 }, {
 	"desc": "Attribute Certificate",
 	"mime": "application\/pkix-attr-cert",
@@ -1069,11 +1073,19 @@
 }, {
 	"desc": "JPEG Image",
 	"mime": "image\/jpeg",
-	"ext": ".jpeg, .jpg"
+	"ext": ".jpeg"
+}, {
+	"desc": "JPEG Image",
+	"mime": "image\/jpeg",
+	"ext": ".jpg"
 }, {
 	"desc": "JPEG Image (Citrix client)",
 	"mime": "image\/x-citrix-jpeg",
-	"ext": ".jpeg, .jpg"
+	"ext": ".jpeg"
+}, {
+	"desc": "JPEG Image (Citrix client)",
+	"mime": "image\/x-citrix-jpeg",
+	"ext": ".jpg"
 }, {
 	"desc": "JPEG Image (Progressive)",
 	"mime": "image\/pjpeg",
@@ -2181,7 +2193,11 @@
 }, {
 	"desc": "RSS - Really Simple Syndication",
 	"mime": "application\/rss+xml",
-	"ext": ".rss, .xml"
+	"ext": ".rss"
+}, {
+	"desc": "RSS - Really Simple Syndication",
+	"mime": "application\/rss+xml",
+	"ext": ".xml"
 }, {
 	"desc": "S Hexdump Format",
 	"mime": "application\/shf+xml",
